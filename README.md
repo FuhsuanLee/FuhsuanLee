@@ -5,9 +5,9 @@ This is **Sherry**, a Computer Science student from **NTUT** who is passionate a
 ### What I Do
 
 - 🔭 I’m currently working on **Large Language Model**, **Internet Security**, and **Machine Learning**.
-- 🌱 I’m currently learning more about **AI applications and system development**
+- 🌱 I’m currently learning more about **AI applications and system development**.
 
-## Technical Stack
+## 🛠️ Technical Stack
 
 **Programming Languages**
 
@@ -21,7 +21,7 @@ This is **Sherry**, a Computer Science student from **NTUT** who is passionate a
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-## Fun Fact About Me
+## 💗 Fun Fact About Me
 
 A super fan of **Duffy and Friends** at Disney 🧸
 
@@ -31,11 +31,11 @@ A super fan of **Duffy and Friends** at Disney 🧸
   <img src="https://media.giphy.com/media/pLbNPIBuKj6ZN78v0i/giphy.gif" width="200">
 </p>
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuhsuanlee&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuhsuanlee&show)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuhsuanlee&layout=compact)
 
-## You Can Contact Me Here
+## 📧 You Can Contact Me Here
 
-📧 Gmail: fuhsunalee1011@gmail.com
+Gmail: fuhsunalee1011@gmail.com
