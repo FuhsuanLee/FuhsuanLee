@@ -35,7 +35,3 @@ A super fan of **Duffy and Friends** at Disney 🧸
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuhsuanlee&show)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuhsuanlee&layout=compact)
-
-## 📧 You Can Contact Me Here
-
-Gmail: fuhsunalee1011@gmail.com
