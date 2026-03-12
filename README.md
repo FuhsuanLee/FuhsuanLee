@@ -32,6 +32,4 @@ A super fan of **Duffy and Friends** at Disney 🧸
 </p>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuhsuanlee&show)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuhsuanlee&layout=compact)
