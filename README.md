@@ -20,16 +20,3 @@ This is **Sherry**, a Computer Science student from **NTUT** who is passionate a
 **Web Development**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-## 💗 Fun Fact About Me
-
-A super fan of **Duffy and Friends** at Disney 🧸
-
-<p align="left">
-  <img src="https://media.giphy.com/media/YiezUnohfo4OU3biAW/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/xZjnwC0Au0jfmZszlM/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/pLbNPIBuKj6ZN78v0i/giphy.gif" width="200">
-</p>
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuhsuanlee&layout=compact)
